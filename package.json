@@ -4,8 +4,7 @@
   "description": "electron starfield demo",
   "main": "main.js",
   "scripts": {
-    "start": "webpack && electron main.js",
-    "test": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+    "start": "electron main.js"
   },
   "repository": {
     "type": "git",
