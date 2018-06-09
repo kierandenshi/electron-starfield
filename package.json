@@ -12,7 +12,7 @@
   },
   "author": "kierandenshi@mac.com",
   "devDependencies": {
-    "electron-prebuilt": "^0.36.0"
+    "electron-prebuilt": "^1.4.13"
   },
   "dependencies": {
     "lodash": "^4.7.0"
